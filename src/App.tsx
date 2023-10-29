@@ -2,7 +2,6 @@ import { useState, useEffect } from "react";
 import {
   ParticleAuthModule,
   ParticleProvider,
-  BiconomyAccountModule,
 } from "@biconomy/particle-auth";
 import { IPaymaster, BiconomyPaymaster } from '@biconomy/paymaster'
 import { IBundler, Bundler } from '@biconomy/bundler'
